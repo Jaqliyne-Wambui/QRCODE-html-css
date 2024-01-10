@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    align-content: center;
+    text-align: center;
+}
+.container{
+    margin-top: 180px;
+    margin-left: 700px;
+    background-color: white;
+    align-content: center;
+    text-align: center;
+    border-radius: 15px;
+    height: 65vh;
+    width: 350px;
+    padding: auto;
+    position: relative;
+    
+    transform: translate;
+
+
+}
+
+.image {
+    border-radius: 15px;
+    margin-top: 20px;
+    height: 40vh;
+    width: 320px;
+    
+
+}
+
+
+
+h2{
+    font-family: Outfit;
+    font-weight: 700;
+    
+}
+
+p{
+    font-family: Outfit;
+    font-weight: 400;
+}
